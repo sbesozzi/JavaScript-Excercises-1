@@ -90,10 +90,9 @@ function greet(name) {
 // 3. put words into sentence
 // 4. return sentence with words
 
-function madLib(sentence) {
+function madLib(word1, word2, word3, word4) {
 
-    sentence = "word1" + "word2" + "word3" + "word4";
-  return sentence;
+    return word1 + word2 + word3 + word4;
 
 };
 
